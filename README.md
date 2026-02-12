@@ -5,7 +5,7 @@
     </td>
     <td width="60%">
       <h1>RITHISH R</h1>
-      <h3>B.Tech Computer Science and Engineering Student</h3>
+      <h3>BE Computer Science and Engineering Student</h3>
       <p>📍 Tirupur, Tamil Nadu</p>
     </td>
   </tr>
